@@ -91,3 +91,4 @@ trickles bytes kept one request alive for 40 minutes. `fetch()` now enforces a t
 | `evaluation/` | Evaluation dataset and metrics |
 | `docs/` | Architecture diagrams and notes |
 | `tests/` | Unit tests (pytest) |
+| `experiments/` | Small, numbered measurements that back design decisions (tokens, cost, retrieval) |
